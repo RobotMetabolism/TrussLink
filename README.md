@@ -53,15 +53,16 @@ Embedded software for the robot links. See `TrussLinkFirmware/README.md` for com
 If you use this work in your research, please cite:
 
 ```bibtex
-@misc{wyder2024robotmetabolismmachinesgrow,
-      title={Robot Metabolism: Towards machines that can grow by consuming other machines}, 
-      author={Philippe Martin Wyder and Riyaan Bakhda and Meiqi Zhao and Quinn A. Booth and Matthew E. Modi and Andrew Song and Simon Kang and Jiahao Wu and Priya Patel and Robert T. Kasumi and David Yi and Nihar Niraj Garg and Pranav Jhunjhunwala and Siddharth Bhutoria and Evan H. Tong and Yuhang Hu and Judah Goldfeder and Omer Mustel and Donghan Kim and Hod Lipson},
-      year={2024},
-      eprint={2411.11192},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2411.11192}
-}
+@article{wyder2025robot,
+            title        = {Robot Metabolism: Towards Machines That Can Grow by Consuming Other Machines},
+            author       = {Wyder, Philippe Martin and Bakhda, Riyaan and Zhao, Meiqi and Booth, Quinn A. and Modi, Matthew E. and Song, Andrew and Kang, Simon and Wu, Jiahao and Patel, Priya and Kasumi, Robert T. and Yi, David and Garg, Nihar Niraj and Jhunjhunwala, Pranav and Bhutoria, Siddharth and Tong, Evan H. and Hu, Yuhang and Goldfeder, Judah and Mustel, Omer and Kim, Donghan and Lipson, Hod},
+            journal      = {Science Advances},
+            year         = {2025},
+            month        = {jul},
+            day          = {16},
+            doi          = {10.1126/sciadv.adu6897},
+            url          = {https://www.science.org/doi/10.1126/sciadv.adu6897}
+          }
 ```
 
 ```bibtex
